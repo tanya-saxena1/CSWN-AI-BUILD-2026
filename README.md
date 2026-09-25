@@ -1,4 +1,4 @@
-# CSWN-AI-BUILDS-2026
+# CSWN-AI-BUILD-2026
 
 We want to build a computer vision interface that lets a person control common computer actions using signals
 that work for them. One person might use hand gestures. Another might have no usable hand movement and use
